@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🇧🇷 Living in Santa Catarina<br>🏢 Software Developer at BPlus Technology<br>📚 Student in Analysis and Systems Development<br>🎓Computer Technician<br>🚁 Drone pilot in spare time</p>
+<p align="left">🇧🇷 Living in Santa Catarina<br>🏢 Software Developer at BPlus Technology<br>🎓Analysis and Systems Developmen and Computer Technician<br>🚁 Drone pilot in spare time</p>
 
 ###
 
