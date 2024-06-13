@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Guilherme and I work with Systems Integration using Intersystems technologies.</p>
+<p align="left">My name is Guilherme and I work with Systems Integration.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🇧🇷 Living in Santa Catarina<br>🏢 Software Developer at BPlus Technology<br>🎓Analysis and Systems Developmen and Computer Technician<br>🚁 Drone pilot in spare time</p>
+<p align="left">🇧🇷 Living in Santa Catarina<br>🏢 Software Developer at Grupo Boticario<br>🎓Analysis and Systems Developmen and Computer Technician<br>🚁 Drone pilot in spare time</p>
 
 ###
 
